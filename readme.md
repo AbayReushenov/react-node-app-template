@@ -1,4 +1,4 @@
-# How to deploy to heroku
+# How to deploy react and node.js to heroku
 ### FROM ROOT direcory, where is package.json
 0. heroku login
 - Logging in... done
