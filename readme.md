@@ -1,6 +1,5 @@
-### https://abay-react-node.herokuapp.com/
-### FROM ROOT direcory !!!
-### where is package.json
+# How to deploy to heroku
+### FROM ROOT direcory, where is package.json
 0. heroku login
 - Logging in... done
 - Logged in as abay.reushenov@gmail.com
